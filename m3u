@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="La 1 HD" tvg-name="LA 1 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" group-title="★ GENERALISTAS ★",LA 1 FHD
-http://spaniptv.giize.com:8080/mamamari/7WheafpLQnRF/3
 #EXTINF:-1 tvg-id="La 1 HD" tvg-name="LA 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" group-title="★ GENERALISTAS ★",LA 1 HD
 http://spaniptv.giize.com:8080/mamamari/7WheafpLQnRF/4
 #EXTINF:-1 tvg-id="La 1 HD" tvg-name="LA 1 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" group-title="★ GENERALISTAS ★",LA 1 SD
@@ -47,7 +45,6 @@ http://spaniptv.giize.com:8080/mamamari/7WheafpLQnRF/19
 http://spaniptv.giize.com:8080/mamamari/7WheafpLQnRF/20
 #EXTINF:-1 tvg-id="La Sexta HD" tvg-name="LA SEXTA SD ( Móvil )" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SEXTA.png" group-title="★ GENERALISTAS ★",LA SEXTA SD ( Móvil )
 http://spaniptv.giize.com:8080/mamamari/7WheafpLQnRF/51054
-
 #EXTINF:-1 tvg-id="M+ Acción HD" tvg-name="M+ ACCION FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="★ CINE ★",M+ ACCION FHD
 http://spaniptv.giize.com:8080/mamamari/7WheafpLQnRF/31
 #EXTINF:-1 tvg-id="M+ Acción HD" tvg-name="M+ ACCION HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="★ CINE ★",M+ ACCION HD
@@ -392,7 +389,6 @@ http://spaniptv.giize.com:8080/mamamari/7WheafpLQnRF/267
 http://spaniptv.giize.com:8080/mamamari/7WheafpLQnRF/268
 #EXTINF:-1 tvg-id="CMM TV" tvg-name="CMM TV SD" tvg-logo="" group-title="★ AUTONÓMICOS ★",CMM TV SD
 http://spaniptv.giize.com:8080/mamamari/7WheafpLQnRF/269
-
 #EXTINF:-1 tvg-id="Iberalia TV" tvg-name="IBERALIA TV FHD" tvg-logo="https://images2.imgbox.com/d1/c4/S14JmxXh_o.png" group-title="★ DOCUMENTALES ★",IBERALIA TV FHD
 http://spaniptv.giize.com:8080/mamamari/7WheafpLQnRF/198
 #EXTINF:-1 tvg-id="Iberalia TV" tvg-name="IBERALIA TV HD" tvg-logo="https://images2.imgbox.com/d1/c4/S14JmxXh_o.png" group-title="★ DOCUMENTALES ★",IBERALIA TV HD
@@ -421,8 +417,6 @@ http://spaniptv.giize.com:8080/mamamari/7WheafpLQnRF/209
 http://spaniptv.giize.com:8080/mamamari/7WheafpLQnRF/210
 #EXTINF:-1 tvg-id="Cazavisión" tvg-name="CAZAVISION SD" tvg-logo="https://images2.imgbox.com/1d/5d/55r3s0JU_o.png" group-title="★ DOCUMENTALES ★",CAZAVISION SD
 http://spaniptv.giize.com:8080/mamamari/7WheafpLQnRF/211
-
-
 #EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-name="M+ PLUS+ FHD" tvg-logo="https://images2.imgbox.com/28/a1/ZfJf5hWc_o.png" group-title="★ M+ VAMOS ★",M+ PLUS+ FHD
 http://spaniptv.giize.com:8080/mamamari/7WheafpLQnRF/163
 #EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-name="M+ PLUS+ HD" tvg-logo="https://images2.imgbox.com/28/a1/ZfJf5hWc_o.png" group-title="★ M+ VAMOS ★",M+ PLUS+ HD
@@ -631,7 +625,6 @@ http://spaniptv.giize.com:8080/mamamari/7WheafpLQnRF/410
 http://spaniptv.giize.com:8080/mamamari/7WheafpLQnRF/412
 #EXTINF:-1 tvg-id="Betis TV" tvg-name="BETIS TV" tvg-logo="https://images2.imgbox.com/9d/b3/Z54H18vs_o.png" group-title="★ OTROS DEPORTES ★",BETIS TV
 http://spaniptv.giize.com:8080/mamamari/7WheafpLQnRF/411
-
 #EXTINF:-1 tvg-id="LaLiga TV BAR HD" tvg-name="LaLigaTV BAR" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LIGBAR.png" group-title="★ BAR ★",LaLigaTV BAR
 http://spaniptv.giize.com:8080/mamamari/7WheafpLQnRF/6259
 #EXTINF:-1 tvg-id="LaLiga TV BAR 2" tvg-name="LaLigaTV BAR2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LIGBA1.png" group-title="★ BAR ★",LaLigaTV BAR2
@@ -701,7 +694,6 @@ http://spaniptv.giize.com:8080/mamamari/7WheafpLQnRF/6290
 http://spaniptv.giize.com:8080/mamamari/7WheafpLQnRF/6291
 #EXTINF:-1 tvg-id="" tvg-name="FEFTV 3 BACKUP (Eventos)" tvg-logo="https://pbs.twimg.com/profile_images/1691725582550118400/99FaG6d1_400x400.jpg" group-title="★FEF TV ★",FEFTV 3 BACKUP (Eventos)
 http://spaniptv.giize.com:8080/mamamari/7WheafpLQnRF/6292
-
 #EXTINF:-1 tvg-id="GOL PLAY" tvg-name="GOL PLAY HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOL.png" group-title="★ OTROS DEPORTES ★",GOL PLAY HD 1080P
 http://spaniptv.giize.com:8080/mamamari/7WheafpLQnRF/6293
 #EXTINF:-1 tvg-id="GOL PLAY" tvg-name="GOL PLAY HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOL.png" group-title="★ OTROS DEPORTES ★",GOL PLAY HD 720P
@@ -736,7 +728,6 @@ http://spaniptv.giize.com:8080/mamamari/7WheafpLQnRF/49143
 http://spaniptv.giize.com:8080/mamamari/7WheafpLQnRF/51945
 #EXTINF:-1 tvg-id="À Punt" tvg-name="A punt SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/APUNT.png" group-title="★ AUTONÓMICOS ★",A punt SD
 http://spaniptv.giize.com:8080/mamamari/7WheafpLQnRF/51946
-
 #EXTINF:-1 tvg-id="DE | Rally TV" tvg-name="Rally TV" tvg-logo="https://funkymonkeybox.com/images/04b-tEvFwvh5lN4PCx-ukxsoKSbyVGxpdGcNRvAILAe7GDUBqdQA8s62BVl6vEoMdgMMIbnia6VJIcMzTTNBaw.png" group-title="★ OTROS DEPORTES ★",Rally TV
 http://spaniptv.giize.com:8080/mamamari/7WheafpLQnRF/51798
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 9" tvg-name="M+ LIGA DE CAMPEONES 9 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP8.png" group-title="★ M+ LIGA DE CAMPEONES ★",M+ LIGA DE CAMPEONES 9 SD
@@ -755,7 +746,6 @@ http://spaniptv.giize.com:8080/mamamari/7WheafpLQnRF/52352
 http://spaniptv.giize.com:8080/mamamari/7WheafpLQnRF/52353
 #EXTINF:-1 tvg-id="24 Horas" tvg-name="24H TVE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="★ INFORMATIVOS ★",24H TVE SD
 http://spaniptv.giize.com:8080/mamamari/7WheafpLQnRF/52354
-
 #EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 3 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/DAZN_LALIGA_2024_logo.svg/500px-DAZN_LALIGA_2024_logo.svg.png" group-title="★ DAZN LALIGA ★",DAZN LA LIGA 3 SD
 http://spaniptv.giize.com:8080/mamamari/7WheafpLQnRF/60088
 #EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 4 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/DAZN_LALIGA_2024_logo.svg/500px-DAZN_LALIGA_2024_logo.svg.png" group-title="★ DAZN LALIGA ★",DAZN LA LIGA 4 SD
