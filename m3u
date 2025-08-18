@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="La 1 HD" tvg-name="La 1 UHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" group-title="★ GENERALISTAS ★",La 1 UHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/2
 #EXTINF:-1 tvg-id="La 1 HD" tvg-name="LA 1 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" group-title="★ GENERALISTAS ★",LA 1 FHD
 http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/3
 #EXTINF:-1 tvg-id="La 1 HD" tvg-name="LA 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" group-title="★ GENERALISTAS ★",LA 1 HD
